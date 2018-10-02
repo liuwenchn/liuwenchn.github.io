@@ -18,8 +18,8 @@ sidebar-avatar: /img/006J5oy7jw8fd8u0pgqm8j30e80e1aa7.jpg      # use absolute UR
 
 # SNS settings
 RSS: false
-weibo_username:     liuwenchn
-github_username:    liuwenchn
+weibo_username: liuwenchn
+github_username: liuwenchn
 
 
 
@@ -100,5 +100,8 @@ friends: [
     },{
         title: "吉吉于",
         href: "http://lazynight.me"
+    },{
+        title: "Hux Blog",
+        href: "http://huangxuan.me/
     }
 ]
